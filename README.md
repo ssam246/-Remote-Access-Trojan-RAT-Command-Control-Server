@@ -59,7 +59,7 @@ A powerful Node.js-based command-and-control server for managing and interacting
 
 ### **Virtual Machine Requirements**:
 1. **Ubuntu 22.04 Live Server**:  
-   Download the ISO: [Ubuntu 22.04 Live Server](https://releases.ubuntu.com/jammy/ubuntu-22.04.4-live-server-amd64.iso).
+   Download the ISO: [Ubuntu 22.04 Live Server](https://releases.ubuntu.com/jammy/).
 
 ---
 
